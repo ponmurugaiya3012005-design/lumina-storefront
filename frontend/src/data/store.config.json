@@ -1,0 +1,12 @@
+{
+  "id": "gem-artisan-studio",
+  "name": "Lumina Studio",
+  "slug": "lumina",
+  "tagline": "Handcrafted lighting & ceramic vessels crafted in limited batches.",
+  "accentColor": "#6366f1",
+  "currencySymbol": "\u20b9",
+  "announcement": "\ud83c\udf89 Spring Studio Collection is live \u2014 Free worldwide courier over $150",
+  "showAnnouncement": true,
+  "contactEmail": "elena@luminastudio.com",
+  "phone": "+1 (555) 382-9102"
+}
